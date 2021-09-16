@@ -28,7 +28,8 @@ Take a look at the following image:-
 3. ## [shell_3.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_3.sh)
 * File Test Operators
 * Appending to the end of text file
-* Output: ![terminal_img](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/images/cat_op.PNG)
+* Output: 
+![terminal_img](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/images/cat_op.PNG)
 
 
 
