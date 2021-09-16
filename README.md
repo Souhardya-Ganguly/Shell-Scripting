@@ -29,6 +29,7 @@ Take a look at the following image:-
 * File Test Operators
 * Appending to the end of text file
 * Output: 
+<br>
 ![terminal_img](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/images/cat_op.PNG)
 
 
