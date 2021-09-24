@@ -31,5 +31,11 @@ Take a look at the following image:-
 * Output: <br>
 ![terminal_img](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/images/cat_op.PNG)
 
+4. ## [shell_4.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_4.sh)
+* If-Then-Else Statements
+* How to use Conditional operators in shell
+
+
+
 
 
