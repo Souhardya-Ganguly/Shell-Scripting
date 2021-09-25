@@ -33,11 +33,13 @@ Take a look at the following image:-
 
 4. ## [shell_4.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_4.sh)
 * If-Then-Else Statements
-* How to use Conditional operators in shell
+* How to use Logical operators in shell
 
 5. ## [shell_5.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_5.sh)
 * Arithmetic Operators in Bash
 * Using double brackets
+* Using expr
+* Using bc command (Check out docs in terminal using man bc)
 
 
 
