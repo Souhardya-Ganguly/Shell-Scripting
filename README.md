@@ -35,6 +35,10 @@ Take a look at the following image:-
 * If-Then-Else Statements
 * How to use Conditional operators in shell
 
+5. ## [shell_5.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_5.sh)
+* Arithmetic Operators in Bash
+* Using double brackets
+
 
 
 
