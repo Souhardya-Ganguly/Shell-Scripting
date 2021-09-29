@@ -2,7 +2,7 @@
 
 #Declaring an array in shell:-
 
-# Do not use commasand use single brackets
+# Do not use commas and use single brackets
 os=('ubuntu' 'kali' 'windows' 'fedora') 
 
 #Printing all the elements in an array
