@@ -56,6 +56,10 @@ Take a look at the following image:-
 * Updating an element to a particular index in the array
 * Declaring a variable and treating is as an array
 
+8. ## [shell_8.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_8.sh)
+* While loops
+* Reading contents of a file
+
 
 
 
