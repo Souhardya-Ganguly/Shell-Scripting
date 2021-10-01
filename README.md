@@ -58,6 +58,7 @@ Take a look at the following image:-
 
 8. ## [shell_8.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_8.sh)
 * While loops
+* Sleep command
 * Reading contents of a file
 
 
