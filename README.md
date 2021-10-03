@@ -61,6 +61,10 @@ Take a look at the following image:-
 * Sleep command
 * Reading contents of a file
 
+9. ## [shell_9.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_9.sh)
+* Printing my bash version
+* Until loops
+* For loops and its different versions
 
 
 
