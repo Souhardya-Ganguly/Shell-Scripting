@@ -1,4 +1,4 @@
-# Shell-Scripting
+************# Shell-Scripting
 ## Bash code and explanation
 
 This repositories contains bash code and its explanations.
@@ -66,6 +66,9 @@ Take a look at the following image:-
 * Until loops
 * For loops and its different versions
 
+10. ## [shell_10.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_10.sh)
+* Executing commands using for loops
+* Checking every item in the directory
 
 
 
