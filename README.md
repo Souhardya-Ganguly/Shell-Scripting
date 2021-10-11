@@ -70,5 +70,8 @@ Take a look at the following image:-
 * Executing commands using for loops
 * Checking every item in the directory
 
+11. ## [shell_11.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_11.sh)
+* Select Loop in bash
+
 
 
