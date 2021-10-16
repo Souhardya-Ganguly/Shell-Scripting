@@ -73,5 +73,9 @@ Take a look at the following image:-
 11. ## [shell_11.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_11.sh)
 * Select Loop in bash
 
+12. ## [shell_12.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_12.sh)
+* Break statement in shell
+* Continue statement in shell
+
 
 
