@@ -12,7 +12,7 @@ Take a look at the following image:-
 ![terminal_img](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/images/intro.PNG?raw=true)
 
 ## Contents of the several folders in this repository:-
-1. ## [shell_1.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_1.sh)
+1. ## [shell_1.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_01.sh)
 * Printing in a shell script
 * Some System Variables
 * Declaring and printing local variables
