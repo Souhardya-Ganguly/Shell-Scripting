@@ -21,7 +21,7 @@ Take a look at the following image:-
 * Taking input on the same line in the terminal and taking silent input
 * Taking input as an array
 
-2. ## [shell_2.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_2.sh)
+2. ## [shell_2.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_02.sh)
 * Command Line Arguments
 * If-then-else syntax and flags associated with it
 
