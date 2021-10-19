@@ -77,5 +77,11 @@ Take a look at the following image:-
 * Break statement in shell
 * Continue statement in shell
 
+13. ## [shell_13.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_13.sh)
+* Ways of writing functions
+* Printing all the command line arguments
+* Calling functions
+* Concept of arguments in bash
+
 
 
