@@ -87,5 +87,9 @@ Take a look at the following image:-
 * Concept of local and global variables
 * Using local keyword
 
+15. ## [shell_15.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_15.sh)
+* Returning from a function
+* Use of ternary
+
 
 
