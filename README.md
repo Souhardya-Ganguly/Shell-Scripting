@@ -91,5 +91,7 @@ Take a look at the following image:-
 * Returning from a function
 * Use of ternary
 
+16. ## [shell_16.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_16.sh)
+* Readonly keyword in bash
 
 
