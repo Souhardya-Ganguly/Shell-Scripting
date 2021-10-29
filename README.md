@@ -35,7 +35,7 @@ Take a look at the following image:-
 * If-Then-Else Statements
 * How to use Logical operators in shell
 
-5. ## [shell_5.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_5.sh)
+5. ## [shell_5.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_05.sh)
 * Arithmetic Operators in Bash
 * Using double brackets
 * Using expr
