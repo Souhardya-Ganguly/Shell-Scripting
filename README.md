@@ -46,7 +46,7 @@ Take a look at the following image:-
 * Using Case Statement in Bash
 * Using Regex in Case Statement
 
-7. ## [shell_7.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_7.sh)
+7. ## [shell_7.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_07.sh)
 * Array declaration
 * Printing all the elements in an array
 * Printing a specific element in an array
