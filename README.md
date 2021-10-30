@@ -42,7 +42,7 @@ Take a look at the following image:-
 * Using bc command (Check out docs in terminal using man bc)
 
 
-6. ## [shell_6.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_6.sh)
+6. ## [shell_6.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_06.sh)
 * Using Case Statement in Bash
 * Using Regex in Case Statement
 
