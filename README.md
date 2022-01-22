@@ -31,22 +31,22 @@ Take a look at the following image:-
 * Output: <br>
 ![terminal_img](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/images/cat_op.PNG)
 
-4. ## [shell_4.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_4.sh)
+4. ## [shell_4.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_04.sh)
 * If-Then-Else Statements
 * How to use Logical operators in shell
 
-5. ## [shell_5.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_5.sh)
+5. ## [shell_5.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_05.sh)
 * Arithmetic Operators in Bash
 * Using double brackets
 * Using expr
 * Using bc command (Check out docs in terminal using man bc)
 
 
-6. ## [shell_6.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_6.sh)
+6. ## [shell_6.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_06.sh)
 * Using Case Statement in Bash
 * Using Regex in Case Statement
 
-7. ## [shell_7.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_7.sh)
+7. ## [shell_7.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_07.sh)
 * Array declaration
 * Printing all the elements in an array
 * Printing a specific element in an array
@@ -56,12 +56,12 @@ Take a look at the following image:-
 * Updating an element to a particular index in the array
 * Declaring a variable and treating is as an array
 
-8. ## [shell_8.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_8.sh)
+8. ## [shell_8.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_08.sh)
 * While loops
 * Sleep command
 * Reading contents of a file
 
-9. ## [shell_9.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_9.sh)
+9. ## [shell_9.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_09.sh)
 * Printing my bash version
 * Until loops
 * For loops and its different versions
@@ -77,5 +77,21 @@ Take a look at the following image:-
 * Break statement in shell
 * Continue statement in shell
 
+13. ## [shell_13.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_13.sh)
+* Ways of writing functions
+* Printing all the command line arguments
+* Calling functions
+* Concept of arguments in bash
+
+14. ## [shell_14.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_14.sh)
+* Concept of local and global variables
+* Using local keyword
+
+15. ## [shell_15.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_15.sh)
+* Returning from a function
+* Use of ternary
+
+16. ## [shell_16.sh](https://github.com/Souhardya-Ganguly/Shell-Scripting/blob/main/shell_16.sh)
+* Readonly keyword in bash
 
 
